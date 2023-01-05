@@ -1,0 +1,33 @@
+.font-pp {
+  font-size: 0.88rem;
+  line-height: 1.5rem;
+}
+.font-p {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.font-m {
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+}
+
+.font-g {
+  font-size: 1.5rem;
+  line-height: 1.8rem;
+}
+
+.font-gg {
+  font-size: 2.5rem;
+  line-height: 3rem;
+}
+
+.font-x {
+  font-size: 3rem;
+  line-height: 3.5rem;
+}
+
+.font-xg {
+  font-size: 3.25rem;
+  line-height: 4rem;
+}

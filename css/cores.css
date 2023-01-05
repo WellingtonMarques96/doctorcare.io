@@ -1,0 +1,37 @@
+:root {
+  --primary-color: hsl(170, 100%, 26%);
+  --headline: hsl(210, 11%, 15%);
+  --paragraph: hsl(210, 9%, 31%);
+
+  --brand-beige: hsl(39, 100%, 97%);
+  --brand-light: hsl(148, 23%, 89%);
+
+  --bg-light: hsl(180, 14%, 97%);
+  --white: white;
+  --brand-green-hover: #00453a;
+}
+
+.color-g {
+  color: var(--primary-color);
+}
+.color-l1 {
+  color: var(--brand-light);
+}
+.color-l2 {
+  color: var(--bg-light);
+}
+.color-h {
+  color: var(--headline);
+}
+.color-p {
+  color: var(--paragraph);
+}
+.color-b {
+  color: var(--brand-beige);
+}
+.color-hover {
+  color: var(--brand-green-hover);
+}
+.color-w {
+  color: var(--white);
+}
